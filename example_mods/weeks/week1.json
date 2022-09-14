@@ -1,0 +1,32 @@
+{
+  "storyName": "ZIP",
+  "difficulties": "normal",
+  "hideFreeplay": false,
+  "weekBackground": "stage",
+  "weekBefore": "tutorial",
+  "freeplayColor": [
+    146,
+    113,
+    253
+  ],
+  "startUnlocked": true,
+  "hideStoryMode": false,
+  "songs": [
+    [
+      "You Can't Run",
+      "sonicc",
+      [
+        20,
+        0,
+        20
+      ]
+    ]
+  ],
+  "weekCharacters": [
+    "",
+    "",
+    ""
+  ],
+  "hiddenUntilUnlocked": false,
+  "weekName": "fake"
+}
