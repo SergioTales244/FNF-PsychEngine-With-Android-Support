@@ -6,34 +6,6 @@
 				0,
 				0
 			],
-			"anim": "danceLeft",
-			"fps": 24,
-			"name": "GF IDLE",
-			"indices": [
-				30,
-				0,
-				1,
-				2,
-				3,
-				4,
-				5,
-				6,
-				7,
-				8,
-				9,
-				10,
-				11,
-				12,
-				13,
-				14
-			]
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
 			"anim": "danceRight",
 			"fps": 24,
 			"name": "GF IDLE",
@@ -65,13 +37,41 @@
 			"fps": 24,
 			"name": "GF IDLE",
 			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 15,
+			"name": "gfPixel idle",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
 		}
 	],
 	"no_antialiasing": true,
 	"image": "characters/gfPixel",
 	"position": [
-		0,
-		0
+		100,
+		200
 	],
 	"healthicon": "gf",
 	"flip_x": false,
@@ -85,5 +85,5 @@
 		80
 	],
 	"sing_duration": 4,
-	"scale": 5.99999999999999
+	"scale": 1.19999999999999
 }
