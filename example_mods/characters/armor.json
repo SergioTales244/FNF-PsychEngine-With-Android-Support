@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				92,
+				89
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SONICmoveIDLE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				163,
+				74
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SONICmoveLEFT0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				75
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SONICmoveRIGHT0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				101
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SONICmoveUP0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				148,
+				13
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SONICmoveDOWN0"
+		},
+		{
+			"offsets": [
+				17,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shoot",
+			"indices": [],
+			"name": "Pico Shoot"
+		},
+		{
+			"offsets": [
+				-60,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "reload",
+			"indices": [],
+			"name": "Pico Gun Charge"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				-5
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Pico Shoot",
+			"indices": []
+		},
+		{
+			"offsets": [
+				18,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Pico Shoot"
+		},
+		{
+			"offsets": [
+				15,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Pico Shoot"
+		},
+		{
+			"offsets": [
+				18,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Pico Shoot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/armor",
+	"position": [
+		125,
+		270
+	],
+	"healthicon": "armor",
+	"flip_x": false,
+	"healthbar_colors": [
+		234,
+		151,
+		195
+	],
+	"camera_position": [
+		40,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

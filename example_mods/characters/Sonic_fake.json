@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				280
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sonicFAKEI",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				145,
+				275
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sonicFAKERight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				294
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sonicFAKEUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				260
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sonicFAKEDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				216,
+				274
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sonicFAKELeft",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/mighty",
+	"position": [
+		200,
+		350
+	],
+	"healthicon": "fakemighty",
+	"flip_x": false,
+	"healthbar_colors": [
+		41,
+		5,
+		54
+	],
+	"camera_position": [
+		260,
+		130
+	],
+	"sing_duration": 6.1,
+	"scale": 0.799999999999998
+}
