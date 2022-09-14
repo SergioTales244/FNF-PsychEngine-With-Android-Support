@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gfPixel.png"><SubTexture name="gfPixel idle0000" x="1092" y="0" width="558" height="468" frameX="0" frameY="-12" frameWidth="558" frameHeight="480" />
+<SubTexture name="gfPixel idle0001" x="546" y="0" width="546" height="474" frameX="-6" frameY="-6" frameWidth="558" frameHeight="480" />
+<SubTexture name="gfPixel idle0002" x="0" y="0" width="546" height="480" frameX="-6" frameY="0" frameWidth="558" frameHeight="480" />
+<SubTexture name="gfPixel idle0003" x="0" y="0" width="546" height="480" frameX="-6" frameY="0" frameWidth="558" frameHeight="480" />
+<SubTexture name="gfPixel idle0004" x="1092" y="468" width="558" height="468" frameX="0" frameY="-12" frameWidth="558" frameHeight="480" />
+<SubTexture name="gfPixel idle0005" x="0" y="480" width="546" height="474" frameX="-6" frameY="-6" frameWidth="558" frameHeight="480" />
+<SubTexture name="gfPixel idle0006" x="0" y="0" width="546" height="480" frameX="-6" frameY="0" frameWidth="558" frameHeight="480" />
+<SubTexture name="gfPixel idle0007" x="0" y="0" width="546" height="480" frameX="-6" frameY="0" frameWidth="558" frameHeight="480" />
+</TextureAtlas>

@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="angry1.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MightyZIPARGH0000" x="0" y="0" width="905" height="692" frameX="0" frameY="-13" frameWidth="932" frameHeight="705"/>
+	<SubTexture name="MightyZIPARGH0001" x="905" y="0" width="928" height="668" frameX="0" frameY="-11" frameWidth="932" frameHeight="705"/>
+	<SubTexture name="MightyZIPARGH0002" x="1833" y="0" width="928" height="678" frameX="0" frameY="-10" frameWidth="932" frameHeight="705"/>
+	<SubTexture name="MightyZIPARGH0003" x="2761" y="0" width="932" height="657" frameX="0" frameY="-17" frameWidth="932" frameHeight="705"/>
+	<SubTexture name="MightyZIPARGH0004" x="3693" y="0" width="928" height="674" frameX="0" frameY="-5" frameWidth="932" frameHeight="705"/>
+	<SubTexture name="MightyZIPARGH0005" x="4621" y="0" width="928" height="688" frameX="0" frameY="0" frameWidth="932" frameHeight="705"/>
+	<SubTexture name="MightyZIPARGH0006" x="5549" y="0" width="932" height="657" frameX="0" frameY="-17" frameWidth="932" frameHeight="705"/>
+	<SubTexture name="MightyZIPARGH0007" x="905" y="0" width="928" height="668" frameX="0" frameY="-11" frameWidth="932" frameHeight="705"/>
+	<SubTexture name="MightyZIPARGH0008" x="6481" y="0" width="928" height="678" frameX="0" frameY="-10" frameWidth="932" frameHeight="705"/>
+	<SubTexture name="MightyZIPDown0000" x="7409" y="0" width="759" height="539" frameX="0" frameY="-15" frameWidth="759" frameHeight="555"/>
+	<SubTexture name="MightyZIPDown0001" x="7409" y="0" width="759" height="539" frameX="0" frameY="-15" frameWidth="759" frameHeight="555"/>
+	<SubTexture name="MightyZIPDown0002" x="0" y="692" width="719" height="555" frameX="-20" frameY="0" frameWidth="759" frameHeight="555"/>
+	<SubTexture name="MightyZIPDown0003" x="0" y="692" width="719" height="555" frameX="-20" frameY="0" frameWidth="759" frameHeight="555"/>
+	<SubTexture name="MightyZIPDown0004" x="719" y="692" width="727" height="550" frameX="-16" frameY="-5" frameWidth="759" frameHeight="555"/>
+	<SubTexture name="MightyZIPDown0005" x="719" y="692" width="727" height="550" frameX="-16" frameY="-5" frameWidth="759" frameHeight="555"/>
+	<SubTexture name="MightyZIPDown0006" x="1446" y="692" width="727" height="550" frameX="-16" frameY="-5" frameWidth="759" frameHeight="555"/>
+	<SubTexture name="MightyZIPDown0007" x="1446" y="692" width="727" height="550" frameX="-16" frameY="-5" frameWidth="759" frameHeight="555"/>
+	<SubTexture name="MightyZIPDown0008" x="1446" y="692" width="727" height="550" frameX="-16" frameY="-5" frameWidth="759" frameHeight="555"/>
+	<SubTexture name="MightyZIPIdle0000" x="2173" y="692" width="698" height="754" frameX="0" frameY="-16" frameWidth="698" frameHeight="772"/>
+	<SubTexture name="MightyZIPIdle0001" x="2173" y="692" width="698" height="754" frameX="0" frameY="-16" frameWidth="698" frameHeight="772"/>
+	<SubTexture name="MightyZIPIdle0002" x="2871" y="692" width="675" height="754" frameX="-7" frameY="-17" frameWidth="698" frameHeight="772"/>
+	<SubTexture name="MightyZIPIdle0003" x="2871" y="692" width="675" height="754" frameX="-7" frameY="-17" frameWidth="698" frameHeight="772"/>
+	<SubTexture name="MightyZIPIdle0004" x="3546" y="692" width="673" height="761" frameX="-17" frameY="-11" frameWidth="698" frameHeight="772"/>
+	<SubTexture name="MightyZIPIdle0005" x="3546" y="692" width="673" height="761" frameX="-17" frameY="-11" frameWidth="698" frameHeight="772"/>
+	<SubTexture name="MightyZIPIdle0006" x="4219" y="692" width="678" height="768" frameX="-12" frameY="-4" frameWidth="698" frameHeight="772"/>
+	<SubTexture name="MightyZIPIdle0007" x="4219" y="692" width="678" height="768" frameX="-12" frameY="-4" frameWidth="698" frameHeight="772"/>
+	<SubTexture name="MightyZIPIdle0008" x="4897" y="692" width="683" height="772" frameX="-7" frameY="0" frameWidth="698" frameHeight="772"/>
+	<SubTexture name="MightyZIPIdle0009" x="4897" y="692" width="683" height="772" frameX="-7" frameY="0" frameWidth="698" frameHeight="772"/>
+	<SubTexture name="MightyZIPIdle0010" x="5580" y="692" width="682" height="772" frameX="-8" frameY="0" frameWidth="698" frameHeight="772"/>
+	<SubTexture name="MightyZIPIdle0011" x="5580" y="692" width="682" height="772" frameX="-8" frameY="0" frameWidth="698" frameHeight="772"/>
+	<SubTexture name="MightyZIPIdle0012" x="5580" y="692" width="682" height="772" frameX="-8" frameY="0" frameWidth="698" frameHeight="772"/>
+	<SubTexture name="MightyZIPIdle0013" x="5580" y="692" width="682" height="772" frameX="-8" frameY="0" frameWidth="698" frameHeight="772"/>
+	<SubTexture name="MightyZIPLaugh0000" x="6262" y="692" width="734" height="752" frameX="-4" frameY="-18" frameWidth="741" frameHeight="770"/>
+	<SubTexture name="MightyZIPLaugh0001" x="6996" y="692" width="734" height="752" frameX="-4" frameY="-18" frameWidth="741" frameHeight="770"/>
+	<SubTexture name="MightyZIPLaugh0002" x="0" y="1464" width="732" height="752" frameX="-5" frameY="-18" frameWidth="741" frameHeight="770"/>
+	<SubTexture name="MightyZIPLaugh0003" x="732" y="1464" width="734" height="753" frameX="-4" frameY="-17" frameWidth="741" frameHeight="770"/>
+	<SubTexture name="MightyZIPLaugh0004" x="1466" y="1464" width="741" height="768" frameX="0" frameY="-1" frameWidth="741" frameHeight="770"/>
+	<SubTexture name="MightyZIPLaugh0005" x="2207" y="1464" width="740" height="768" frameX="-1" frameY="-1" frameWidth="741" frameHeight="770"/>
+	<SubTexture name="MightyZIPLaugh0006" x="2947" y="1464" width="741" height="768" frameX="0" frameY="-1" frameWidth="741" frameHeight="770"/>
+	<SubTexture name="MightyZIPLaugh0007" x="3688" y="1464" width="741" height="769" frameX="0" frameY="0" frameWidth="741" frameHeight="770"/>
+	<SubTexture name="MightyZIPLaugh0008" x="6262" y="692" width="734" height="752" frameX="-4" frameY="-18" frameWidth="741" frameHeight="770"/>
+	<SubTexture name="MightyZIPLaugh0009" x="6996" y="692" width="734" height="752" frameX="-4" frameY="-18" frameWidth="741" frameHeight="770"/>
+	<SubTexture name="MightyZIPLaugh0010" x="0" y="1464" width="732" height="752" frameX="-5" frameY="-18" frameWidth="741" frameHeight="770"/>
+	<SubTexture name="MightyZIPLaugh0011" x="732" y="1464" width="734" height="753" frameX="-4" frameY="-17" frameWidth="741" frameHeight="770"/>
+	<SubTexture name="MightyZIPLaugh0012" x="1466" y="1464" width="741" height="768" frameX="0" frameY="-1" frameWidth="741" frameHeight="770"/>
+	<SubTexture name="MightyZIPLaugh0013" x="2207" y="1464" width="740" height="768" frameX="-1" frameY="-1" frameWidth="741" frameHeight="770"/>
+	<SubTexture name="MightyZIPLaugh0014" x="2947" y="1464" width="741" height="768" frameX="0" frameY="-1" frameWidth="741" frameHeight="770"/>
+	<SubTexture name="MightyZIPLaugh0015" x="3688" y="1464" width="741" height="769" frameX="0" frameY="0" frameWidth="741" frameHeight="770"/>
+	<SubTexture name="MightyZIPLeft0000" x="4429" y="1464" width="938" height="829" frameX="-12" frameY="-30" frameWidth="985" frameHeight="868"/>
+	<SubTexture name="MightyZIPLeft0001" x="4429" y="1464" width="938" height="829" frameX="-12" frameY="-30" frameWidth="985" frameHeight="868"/>
+	<SubTexture name="MightyZIPLeft0002" x="5367" y="1464" width="958" height="860" frameX="-12" frameY="-8" frameWidth="985" frameHeight="868"/>
+	<SubTexture name="MightyZIPLeft0003" x="5367" y="1464" width="958" height="860" frameX="-12" frameY="-8" frameWidth="985" frameHeight="868"/>
+	<SubTexture name="MightyZIPLeft0004" x="6325" y="1464" width="966" height="866" frameX="-12" frameY="0" frameWidth="985" frameHeight="868"/>
+	<SubTexture name="MightyZIPLeft0005" x="0" y="2330" width="978" height="866" frameX="0" frameY="0" frameWidth="985" frameHeight="868"/>
+	<SubTexture name="MightyZIPLeft0006" x="0" y="2330" width="978" height="866" frameX="0" frameY="0" frameWidth="985" frameHeight="868"/>
+	<SubTexture name="MightyZIPLeft0007" x="978" y="2330" width="979" height="866" frameX="-6" frameY="0" frameWidth="985" frameHeight="868"/>
+	<SubTexture name="MightyZIPLeft0008" x="978" y="2330" width="979" height="866" frameX="-6" frameY="0" frameWidth="985" frameHeight="868"/>
+	<SubTexture name="MightyZIPPrepping0000" x="1957" y="2330" width="614" height="599" frameX="-11" frameY="-1" frameWidth="625" frameHeight="600"/>
+	<SubTexture name="MightyZIPPrepping0001" x="1957" y="2330" width="614" height="599" frameX="-11" frameY="-1" frameWidth="625" frameHeight="600"/>
+	<SubTexture name="MightyZIPPrepping0002" x="2571" y="2330" width="619" height="594" frameX="-5" frameY="-6" frameWidth="625" frameHeight="600"/>
+	<SubTexture name="MightyZIPPrepping0003" x="2571" y="2330" width="619" height="594" frameX="-5" frameY="-6" frameWidth="625" frameHeight="600"/>
+	<SubTexture name="MightyZIPPrepping0004" x="3190" y="2330" width="623" height="599" frameX="-1" frameY="-1" frameWidth="625" frameHeight="600"/>
+	<SubTexture name="MightyZIPPrepping0005" x="3190" y="2330" width="623" height="599" frameX="-1" frameY="-1" frameWidth="625" frameHeight="600"/>
+	<SubTexture name="MightyZIPPrepping0006" x="3813" y="2330" width="624" height="600" frameX="0" frameY="0" frameWidth="625" frameHeight="600"/>
+	<SubTexture name="MightyZIPPrepping0007" x="3813" y="2330" width="624" height="600" frameX="0" frameY="0" frameWidth="625" frameHeight="600"/>
+	<SubTexture name="MightyZIPPrepping0008" x="3813" y="2330" width="624" height="600" frameX="0" frameY="0" frameWidth="625" frameHeight="600"/>
+	<SubTexture name="MightyZIPRight0000" x="4437" y="2330" width="724" height="774" frameX="-6" frameY="-12" frameWidth="730" frameHeight="786"/>
+	<SubTexture name="MightyZIPRight0001" x="5161" y="2330" width="724" height="775" frameX="-6" frameY="-11" frameWidth="730" frameHeight="786"/>
+	<SubTexture name="MightyZIPRight0002" x="5885" y="2330" width="694" height="779" frameX="0" frameY="-7" frameWidth="730" frameHeight="786"/>
+	<SubTexture name="MightyZIPRight0003" x="6579" y="2330" width="694" height="779" frameX="0" frameY="-7" frameWidth="730" frameHeight="786"/>
+	<SubTexture name="MightyZIPRight0004" x="7273" y="2330" width="704" height="785" frameX="0" frameY="-1" frameWidth="730" frameHeight="786"/>
+	<SubTexture name="MightyZIPRight0005" x="0" y="3196" width="704" height="785" frameX="0" frameY="-1" frameWidth="730" frameHeight="786"/>
+	<SubTexture name="MightyZIPRight0006" x="704" y="3196" width="706" height="786" frameX="0" frameY="0" frameWidth="730" frameHeight="786"/>
+	<SubTexture name="MightyZIPRight0007" x="1410" y="3196" width="706" height="786" frameX="0" frameY="0" frameWidth="730" frameHeight="786"/>
+	<SubTexture name="MightyZIPUp0000" x="2116" y="3196" width="723" height="853"/>
+	<SubTexture name="MightyZIPUp0001" x="2839" y="3196" width="723" height="853"/>
+	<SubTexture name="MightyZIPUp0002" x="3562" y="3196" width="708" height="834" frameX="-7" frameY="-17" frameWidth="723" frameHeight="853"/>
+	<SubTexture name="MightyZIPUp0003" x="4270" y="3196" width="709" height="834" frameX="-6" frameY="-17" frameWidth="723" frameHeight="853"/>
+	<SubTexture name="MightyZIPUp0004" x="4979" y="3196" width="707" height="836" frameX="-9" frameY="-16" frameWidth="723" frameHeight="853"/>
+	<SubTexture name="MightyZIPUp0005" x="5686" y="3196" width="706" height="836" frameX="-10" frameY="-16" frameWidth="723" frameHeight="853"/>
+	<SubTexture name="MightyZIPUp0006" x="6392" y="3196" width="707" height="836" frameX="-9" frameY="-16" frameWidth="723" frameHeight="853"/>
+	<SubTexture name="RECOVER_RECOVER_RECOVER_RECOVER_ENCORE 2BF.png - копия 2" x="7099" y="3196" width="256" height="128"/>
+</TextureAtlas>
